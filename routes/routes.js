@@ -14,12 +14,12 @@ module.exports = function(app){
         },
       {
         "logo":"git.png",
-        "texto":"Utilização dos principais sistemas de controle de versão, como o GIT. Também a utlização da plataforma GITGUB.",
+        "texto":"Utilização dos principais sistemas de controle de versão, como o GIT. Também a utlização da plataforma GITHUB e Bitbucket.",
           "texto2":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"   
         },
       {
         "logo":"back.png",
-        "texto":"Desenvolvimento de Back-end utilizando de Javascript (Node.Js), PHP e MySql. Assim como capacidade de planejamento e modelagem da lógica do sistema e do banco de dados respeitando os requisitos do cliente.",
+        "texto":"Desenvolvimento de Back-end utilizando de Javascript (Node.Js), PHP e MySql. Gerenciamento e utilização de APIs. Assim como capacidade de planejamento e modelagem da lógica do sistema e do banco de dados respeitando os requisitos do cliente.",
           "texto2":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"   
         },
       {

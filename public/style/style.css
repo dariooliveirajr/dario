@@ -83,13 +83,12 @@ header{background-image: url('../img/fundo_mobile.png');background-repeat: no-re
 #habilidades{color:var(--gray-white);}
 #table1{height: 100%;}
 
-#habilidades #table1 td:first-child {width: 5%;}
+#habilidades #table1 td:first-child {width: 10%;}
 #habilidades #table1 td:first-child + td {width: 80%;}
-#habilidades #table1 td:first-child + td + td {width: 5%;}
+#habilidades #table1 td:first-child + td + td {width: 10%;}
 
 #habilidades #table1 tr:first-child + tr {height: 60%;}
-#habilidades #table2 td:first-child {text-align: center;}
-#habilidades #table2 td:first-child img{width:50%;}
+.img_skill{display:block;margin:auto;}
 #carrossel-habilidades{width:100%;min-height:458px;}
 
 #habilidades .setas{color: var(--gray-white) !important;}

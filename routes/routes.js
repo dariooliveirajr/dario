@@ -69,6 +69,11 @@ module.exports = function(app){
            "titulo":"ABRA",
            "link":"http://abrawp.atwebpages.com",
             "texto":"Website de exemplo criado utilizando Wordpress. Participação: Desenvolvimento completo."   
+        },
+        {"logo":"animotest.png",
+           "titulo":"AnimoTest",
+           "link":"http://animotest.atwebpages.com/",
+            "texto":"Website de exemplo criado com HTML,CSS e Javascript. Participação: Desenvolvimento, design feito pela empresa."   
         }
         ];
         res.render('websites.ejs',{'websites':websites});

@@ -73,7 +73,7 @@ module.exports = function(app){
         {"logo":"5.png",
            "titulo":"My Money App (React e Redux)",
            "link":"http://dario-my-money-app-frontend.herokuapp.com/",
-            "texto":"E-mail: admin Senha: admin  Website de exemplo criado com React, Redux e as principais bibliotecas web javascript, incluindo Node Restful. Participação: Desenvolvimento completo."   
+            "texto":"E-mail: admin@admin.com Senha: admin  Website de exemplo criado com React, Redux e as principais bibliotecas web javascript, incluindo Node Restful. Participação: Desenvolvimento completo."   
         }
         ];
         res.render('websites.ejs',{'websites':websites});

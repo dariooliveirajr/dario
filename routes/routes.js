@@ -60,11 +60,6 @@ module.exports = function(app){
            "link":"http://dariooliveirajr.com:21187/telzir",
             "texto":"Website desenvolvido para um processo seletivo. Possui um simulador de custos de ligação. Participação: Desenvolvimento completo."   
         },
-        {"logo":"4.png",
-           "titulo":"Exemplo Node.Js",
-           "link":"http://dariooliveirajr.com:21187",
-            "texto":"O website possui todas as funções básicas de um banco de dados (inserir, ler, alterar e deletar), e foi desenvolvido utilizando Node.Js. Participação: Desenvolvimento completo."   
-        },
         {"logo":"wordpressblue.png",
            "titulo":"ABRA",
            "link":"http://abrawp.atwebpages.com",
@@ -74,6 +69,11 @@ module.exports = function(app){
            "titulo":"AnimoTest",
            "link":"http://animotest.atwebpages.com/",
             "texto":"Website de exemplo criado com HTML,CSS e Javascript. Participação: Desenvolvimento, design feito pela empresa."   
+        },
+        {"logo":"5.png",
+           "titulo":"My Money App (React e Redux)",
+           "link":"http://dario-my-money-app-frontend.herokuapp.com/",
+            "texto":"E-mail: admin Senha: admin  Website de exemplo criado com React, Redux e as principais bibliotecas web javascript, incluindo Node Restful. Participação: Desenvolvimento completo."   
         }
         ];
         res.render('websites.ejs',{'websites':websites});

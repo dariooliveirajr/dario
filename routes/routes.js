@@ -55,11 +55,6 @@ module.exports = function(app){
            "link":"http://agif.atwebpages.com",
             "texto":"Projeto de website desenvolvido para a empresa de consultoria AGIF Brasil em 2018. Participação: Desenvolvimento completo do Front-end."   
         },
-        {"logo":"3.png",
-           "titulo":"Telzir",
-           "link":"http://dariooliveirajr.com:21187/telzir",
-            "texto":"Website desenvolvido para um processo seletivo. Possui um simulador de custos de ligação. Participação: Desenvolvimento completo."   
-        },
         {"logo":"wordpressblue.png",
            "titulo":"ABRA",
            "link":"http://abrawp.atwebpages.com",

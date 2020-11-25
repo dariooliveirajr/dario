@@ -47,7 +47,7 @@ module.exports = function(app){
         var websites = [
         {"logo":"1.png",
             "titulo":"Clínica Semper",
-            "link":"http://dariooliveira.com:21184/",
+            "link":"http://clinicasemper.com.br/",
             "texto":"Site desenvolvido para a clínica de fisioterapia Semper em 2019. O website possui um sistema de agendamento de consultas e gerenciamento de pacientes, especialistas, especialidades, serviços, entre outros.  - O sistema interno pode ser testado através do endereço http://dariooliveira.com:21184/sistema, e acessado com as credenciais: email: admin, senha: admin e o tipo: administrador. -  Participação: desenvolvimento completo do sistema de agendamento de consultas e desenvolvedor ativo no front-end (layout) e do banco de dados."   
         },
         {"logo":"2.png",
